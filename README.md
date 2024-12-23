@@ -23,3 +23,8 @@ cd strangerthings
 ```
 
 3. Abra o arquivo index.html em seu navegador.
+
+## Visualização 👀
+![image](https://github.com/user-attachments/assets/001e6ab1-8421-4133-9d38-3be1c35d5324)
+![image](https://github.com/user-attachments/assets/45c9f8e5-0638-4c6a-9faa-77db76c99d9a)
+
